@@ -1,1 +1,2 @@
-Este es un texto en el taller de git.
+Este es un archivo en el taller de git.
+Hola mundo cruel.
