@@ -1,0 +1,1 @@
+Este es un texto en el taller de git.
